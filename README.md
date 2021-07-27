@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TrungMoon
 - 👀 I’m interested in technology and science
 - 🌱 I’m currently learning Java
-- 📫 How to reach me gamil: happiraifushinpuru@gmail.com
+- 📫 How to reach me gmail: happiraifushinpuru@gmail.com
 - If u play dota2
 ༼ つ ◕_◕ ༽つ ༼ つ ｡>﹏<｡ ༽つ ༼ つ ♡ε♡ ༽つ ༼ つ ･ิω･ิ ༽つ ༼ つ ◕‿ ◕ ༽つ ༼ つ ︶^︶ ༽つ ༼ つ ◕_◕ ༽つ ༼ つ ◕_◕ ༽つ ༼ つ ◕_◕ ༽つ:452523817
 <!---
