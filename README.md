@@ -10,6 +10,10 @@ TrungMoon/TrungMoon is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<div align="center">
 ##Snake eating contribution graph
 
 ![snake gif](https://github.com/TrungMoon/TrungMoon/blob/output/github-contribution-grid-snake.gif)
+</div>
+
+
