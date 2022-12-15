@@ -1,16 +1,19 @@
+### WELCOME TO MY PAGE 👋👋👋
 <h1 align="center">Hi 👋, I'm Trung</h1>
 <h3 align="center">A passionate Frontend & Backend developer from VietNam</h3>
+- 👀 I’m interested in technology and science<br>
+- 🌱 I’m currently learning Java<br>
+- If u play dota2
+༼ つ ◕_◕ ༽つ ༼ つ ｡>﹏<｡ ༽つ ༼ つ ♡ε♡ ༽つ ༼ つ ･ิω･ิ ༽つ ༼ つ ◕‿ ◕ ༽つ ༼ つ ︶^︶ ༽つ ༼ つ ◕_◕ ༽つ ༼ つ ◕_◕ ༽つ ༼ つ ◕_◕ ༽つ:452523817 <br>
+<p align="left">
+</p>
+## 📫 How to reach me:
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-- 👀 I’m interested in technology and science
-- 🌱 I’m currently learning Java
-- 📫 How to reach me **happiraifushinpuru@gmail.com**
-- My youtube chanel: https://www.youtube.com/channel/UCL2jfMXd3VdyysL7UF8gFUw
-- If u play dota2
-༼ つ ◕_◕ ༽つ ༼ つ ｡>﹏<｡ ༽つ ༼ つ ♡ε♡ ༽つ ༼ つ ･ิω･ิ ༽つ ༼ つ ◕‿ ◕ ༽つ ༼ つ ︶^︶ ༽つ ༼ つ ◕_◕ ༽つ ༼ つ ◕_◕ ༽つ ༼ つ ◕_◕ ༽つ:452523817
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trung-dinh-7357b5251) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/TrungMoon) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
+
 <!---
 TrungMoon/TrungMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
