@@ -33,11 +33,5 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrungMoon&repo=2DGamejava&theme=radical" />
 </a>
 
-<div align="center">
-
-  <h3 align="center">Snake eating contribution graph</h3>
-
-![snake gif](https://github.com/TrungMoon/TrungMoon/blob/output/github-contribution-grid-snake.gif)
-</div>
 
 
