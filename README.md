@@ -12,7 +12,7 @@
 <p align="left">
 </p>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trung-dinh-7357b5251) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/TrungMoon) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UCL2jfMXd3VdyysL7UF8gFUw)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trung-dinh-7357b5251)[![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UCL2jfMXd3VdyysL7UF8gFUw)
 
 <!---
 TrungMoon/TrungMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
