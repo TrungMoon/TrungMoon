@@ -40,10 +40,3 @@ You can click the Preview link to take a look at your changes.
 ![snake gif](https://github.com/TrungMoon/TrungMoon/blob/output/github-contribution-grid-snake.gif)
 </div>
 
-<div align="center">
-
-  <h3 align="center">Snake eating contribution graph</h3>
-
-![snake gif](https://github.com/TrungMoon/TrungMoon/blob/output/github-contribution-grid-snake.gif)
-</div>
-
