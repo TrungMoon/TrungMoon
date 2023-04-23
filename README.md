@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrungMoon&repo=2DGamejava&theme=radical" />
 </a>
 
-<a href="https://github.com/TrungMoon/2DGamejava">
+<a href="https://github.com/TrungMoon/E_Book-Manager">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrungMoon&repo=E_Book-Manager&theme=radical" />
 </a>
