@@ -33,6 +33,11 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrungMoon&repo=2DGamejava&theme=radical" />
 </a>
 
+<a href="https://github.com/TrungMoon/2DGamejava">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrungMoon&repo=E_Book-Manager&theme=radical" />
+</a>
+
 <div align="center">
 
   <h3 align="center">Snake eating contribution graph</h3>
